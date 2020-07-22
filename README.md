@@ -9,7 +9,7 @@ importはSlack Emoji Toolsという拡張を使うと一括で可能。
 ## 動作環境
 WSL Ubuntuで動作確認済。
 
-package管理がapt出ない場合は適宜shを修正してください。
+package管理がaptでない場合、既にnodejsやnpmを使用している場合は適宜setup.shを修正してください。
 
 
 ## Usage
